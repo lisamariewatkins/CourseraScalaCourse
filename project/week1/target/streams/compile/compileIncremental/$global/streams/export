@@ -1,0 +1,1 @@
+scalac -classpath /Users/lwatkins2/Workspace/scala/Tutorials/Coursera/LectureWorkshops/project/week1/target/scala-2.12/classes -bootclasspath /Users/lwatkins2/.sbt/boot/scala-2.12.4/lib/scala-library.jar /Users/lwatkins2/Workspace/scala/Tutorials/Coursera/LectureWorkshops/project/week1/session.scala
